@@ -1,0 +1,28 @@
+* {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+#main {
+	width:200px;
+	height:360px;
+	margin:0 auto;
+	padding-top:40px;
+	background-color:yellow;
+}
+
+#box {
+	width:180px;
+	height:331px;
+	margin:0 auto ;
+	background-color:green;
+}
+
+.xs {
+	width:28px;
+	height:28px;
+	border:1px solid green;
+	float:left;
+	background-color:white;
+}
